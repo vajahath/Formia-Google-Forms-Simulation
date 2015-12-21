@@ -1,0 +1,63 @@
+
+			WELCOME TO PROJECT FORMIA
+- Vajahath Ahmed
+  vajuoff.1@gmail.com
+  mycolorpad.blogspot.in
+
+  Read online documentation at: 
+  
+****************************************************
+Thanks to Jiju, Ajmal, Azhar & Hari who helped me to develop this project. 
+****************************************************
+Formia is a simulation of Google Forms.
+---------------------------------------
+This is the first project in my life.
+More than 3000 lines of codes.
+Typically it generates aprox. 50 lines of code for each forms besides the source code.
+
+Since I'm a beginner, nothing is 100% perfect. If there are any bugs, kindly spot it and
+clear it. use Github to improve this project.
+
+Link: 
+*****************************************************
+
+EASY 5 STEP INSTALLATION
+========================
+
+STEP 1
+======
+Run WAMP/Xampp server.
+if (wamp) -> C:\wamp\www\ will be your root dir.
+if (xampp) -> C:\xampp\htdocs\ will be your root dir.
+
+Confirm that the server is running:
+ - open browser (Google Chrome is always prefered).
+ - go to http://127.0.0.1/
+ - if it fails try again.
+
+STEP 2
+======
+Copy the downloaded file 'Formia' to the root dir.
+
+STEP 4
+======
+ - Open browser (Google Chrome is always prefered).
+ - Go to http://127.0.0.1/Formia/Initialization/
+ - if success message appears, delete the "Initialization" directory from "Formia.".
+ - Restart Chrome.
+
+STEP 5
+======
+ - Open browser (Google Chrome is always prefered).
+ - Go to http://127.0.0.1/Formia/
+Enjoy
+
+Please improve this via github.
+
+
+-vajahath ahmed.
+mycolorpad.blogspot.in
+vajuoff.1@gmail.com
+
+bye ;)
+

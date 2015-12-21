@@ -1,0 +1,133 @@
+body{
+	font-family: 'Ubuntu', sans-serif;
+	background-color: #E1DDDD;
+}
+.mainHeader{
+	background-color: transparent;
+}
+.formia{
+	background-color: #A20051;
+	color: #FFF;
+	padding: .5% 5%;
+
+	position: fixed;
+	top: 0px;
+	width: 100%;
+	z-index: 3;
+}
+.formia a:link,
+.formia a:visited{
+	color: #FFCBE5;
+	text-decoration: none;
+}
+.formia a:hover,
+.formia a:active{
+	color: #FFF;
+	text-decoration: underline;
+}
+
+
+.formTitle{
+	color: #FFCBE5;
+	font-size: 130%;
+	background-color: #EA0075;
+	padding: 3% 5% .5% 5%;
+}
+.review{
+	width: 21%;
+	font-size: 175%;
+	font-family: 'Roboto Condensed', sans-serif;
+	display: inline-block;
+	border-right: solid thin #FFCBE5;
+	padding: .5% 0% 1% 0%;
+}
+.thick{
+	font-weight: 700;
+}
+.thin{
+	font-weight: 300;
+}
+.ftitle{
+	width: 75%;
+	display: inline-block;
+	font-size: 150%;
+	margin-left: 1.2%;
+	color: #FFF;
+}
+.desc{
+	background-color: transparent;
+	padding: 1% 15%;
+	color: #000;
+	font-size: 103%;
+}
+.summ{
+	background-color: #FFF;
+	margin: .5% 15%;
+	border: solid thin #EA0075;
+	border-radius: 7px;
+	padding: 1%;
+}
+.resTab{
+	background-color: #FFF;
+	margin: 1.5% 5% 5% 5%;
+	border: solid thin #EA0075;
+	border-radius: 7px;
+	padding: 1%;
+
+}
+.resTab h1{
+	margin-bottom: 1%;
+}
+.bott{
+	background-color: #A20051;
+	color: #FFBBA0;
+	padding: .5% 0%;
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	text-align: right;
+}
+.bott p{
+	padding-right: 5%;
+}
+.bott a:link,
+.bott a:visited{
+	color: #FFBBA0;
+	text-decoration: none;
+}
+.bott a:hover,
+.bott a:active{
+	color: #FFF;
+	text-decoration: underline;
+}
+table{
+	border-collapse: collapse;
+	width: 100%;
+}
+.tbl-h{ /*table head*/
+	padding: .5%;
+	background-color: #EA0075;
+	color: #FFF;
+	font-size: 110%;
+	border-width: thin;
+	border-style: solid;
+	border-right-color: #FFF;
+}
+.tbl-r{ /*each rows*/
+	padding: .5%;
+	background-color: #D7EBFF;
+}
+.tbl-r:hover{
+	background-color: #A6D2FF;
+}
+.tbl-cell{
+	border-width: thin;
+	border-style: solid;
+	border-color: #FFF;
+	padding: .7% .5%;
+}
+.tbl-cell a:hover,
+.tbl-cell a:active{
+	text-decoration: underline;
+	color:;
+}

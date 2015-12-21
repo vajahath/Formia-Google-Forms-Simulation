@@ -1,0 +1,106 @@
+body{
+	background-color: #E5E5E5;
+	font-family: 'Ubuntu', sans-serif;
+}
+.fhead{
+	background-color: #1EAA9E;
+	padding: .5% 1%;
+	font-size: 110%;
+	font-family: 'Ubuntu', sans-serif;
+}
+.fhead a:link,
+.fhead a:visited{
+	
+	color: #BAFFF3;
+	text-decoration: none;
+	letter-spacing: normal;
+}
+.fhead a:hover,
+.fhead a:active{
+	text-decoration: underline;
+}
+.entireQn{
+	background-color: #F7F7F7;
+	margin: 1.5% 16%;
+	border:thin #00A99B solid;
+	border-radius: 15px;
+	margin-bottom: 0%;
+}
+.entireQn header{
+	font-size: 150%;
+	padding: 5% 5%;
+	text-align: center;
+	color: #00A99B;
+}
+.entireQn footer{
+	background-color: #00A99B;
+	padding: 2% 10% 2% 10%;
+	color: #FFF;
+}
+.submit0{
+	padding: 1% 2%;
+	background-color: #00A99B;
+	border: solid thin #00A99B;
+	border-radius: 5px;
+	color: #FFF;
+	margin-top: 2%;
+	margin-bottom: 4%;
+}
+.questions{
+	padding: 2% 7%;
+}
+.textField{
+	width: 48%;
+	display: inline-block;
+//	background-color: yellow;
+	text-align: center;
+	padding-right: 1%;
+}
+.ansField{
+	width: 50%;
+	display: inline-block;
+//	background-color: green;
+}
+.quest{
+	margin: 2% 0%;
+	background-color: #EFEFEF;
+	border-radius: 5px;
+	border: thin solid #EFEFEF;
+	padding: 3%;
+}
+.quest:hover{
+	border-color: #00A99B;
+}
+.typeText{
+	border-radius: 5px;
+	border: solid thin #ACACAC;
+	padding:1%;
+	font-family: 'Ubuntu', sans-serif;
+	width: 100%;
+}
+.typeRadio{
+	margin:1% 2% 1% 2%;
+}
+.typeBox{
+	margin:1% 2.5% 1% .5%;	
+}
+.fixFooter{
+	background-color: #1EAA9E;
+	color: #FFF;
+	text-align: right;
+	position: relative;
+	bottom: 0px;
+	width: 100%;
+	margin-top: 6%;
+}
+.fixFooter p{
+	padding:1.5% 3%;
+}
+.fixFooter a:link,
+.fixFooter a:visited{
+	color: #9FEAC6;
+	text-decoration: none;
+}
+.fixFooter a:hover{
+	text-decoration: underline;
+};

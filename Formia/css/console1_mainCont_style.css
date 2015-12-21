@@ -1,0 +1,34 @@
+/*console1 main content style*/
+.c-cnf{
+	background-color:  transparent;
+	margin: 3% auto 2% 0%;
+	color: gray;
+
+}
+#c-button-cont0{
+	padding: .5%;
+	margin-left: 1%;
+}
+.c-statistics{
+	font-size: 125%;
+	color: #606060;
+	line-height: 140%;
+	letter-spacing: 1;
+	margin-bottom: 5%;
+}
+.c-statistics ul a li{
+	width:10%;
+}
+.c-statistics ul a:link,
+.c-statistics ul a:visited{
+	color: #0574E8;
+}
+.c-statistics ul a:hover,
+.c-statistics ul a:active{
+	text-decoration: underline;
+}
+#c-button-cont1{
+	margin-left: 1%;
+	padding: .5%;
+}
+/*main content over*/

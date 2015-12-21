@@ -1,0 +1,19 @@
+.c-homeOverview{
+	background-color: yellow;
+}
+.c-toolbar{
+	background-color: yellow;
+	margin-top: 1%;
+	margin-left: 1%;
+}
+.c-toolbar ul{
+	list-style: none;
+}
+.c-toolbar ul li{
+	background-color: green;
+	width: 7%;
+	display: inline-block;
+	padding: 1% 1%;
+	margin-right: 1%;
+	box-shadow: 1px 1px 1px gray;
+}
